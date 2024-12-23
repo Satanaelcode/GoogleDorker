@@ -27,7 +27,7 @@ def help(path):
         
     {bold}{white}[{reset}{bold}{blue}OPTIMIZATION{reset}{bold}{white}]{reset}: {bold}{white}
     
-        -t,   --timeout                 :  timeout value for every sources requests (default: 15).
+        -to,   --timeout                 :  timeout value for every sources requests (default: 15).
         -d,   --delay                   :  specify a delay value between each requests (default: 1)
     
     {bold}{white}[{reset}{bold}{blue}UPDATE{reset}{bold}{white}]{reset}: {bold}{white}
