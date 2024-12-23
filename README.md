@@ -58,7 +58,7 @@ dorker -h
 
     [OPTIMIZATION]:
 
-        -t,   --timeout                 :  timeout value for every sources requests (default: 15).
+        -to,   --timeout                 :  timeout value for every sources requests (default: 15).
         -d,   --delay                   :  specify a delay value between each requests (default: 1)
 
     [UPDATE]:
